@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ranker/static/css/main.3f96cef1.css",
+    "main.js": "/ranker/static/js/main.73b96d5b.js",
+    "index.html": "/ranker/index.html",
+    "main.3f96cef1.css.map": "/ranker/static/css/main.3f96cef1.css.map",
+    "main.73b96d5b.js.map": "/ranker/static/js/main.73b96d5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f96cef1.css",
+    "static/js/main.73b96d5b.js"
+  ]
+}
