@@ -1,6 +1,7 @@
 {
   "name": "ranker",
   "version": "0.1.0",
+  "homepage": "https://alexekoren.github.io/ranker"
   "private": true,
   "dependencies": {
     "@craco/craco": "^7.1.0",
@@ -17,7 +18,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -39,6 +42,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^9.8.8",
+    "gh-pages": "^6.1.1",
     "postcss": "^8.4.38",
     "postcss-preset-env": "^9.5.13",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17"
