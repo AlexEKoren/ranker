@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ranker/static/css/main.3f96cef1.css",
-    "main.js": "/ranker/static/js/main.73b96d5b.js",
+    "main.js": "/ranker/static/js/main.f243998a.js",
     "index.html": "/ranker/index.html",
     "main.3f96cef1.css.map": "/ranker/static/css/main.3f96cef1.css.map",
-    "main.73b96d5b.js.map": "/ranker/static/js/main.73b96d5b.js.map"
+    "main.f243998a.js.map": "/ranker/static/js/main.f243998a.js.map"
   },
   "entrypoints": [
     "static/css/main.3f96cef1.css",
-    "static/js/main.73b96d5b.js"
+    "static/js/main.f243998a.js"
   ]
 }
