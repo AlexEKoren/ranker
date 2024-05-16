@@ -1,50 +1,32 @@
 import { useState, useEffect } from "react";
 
-const initialItems = `BuiltRight
-Tourii
-Fair
-Subbb
-Beacon
-Parb AI
-Outbound Aero
-Yura Health
-Tarmac
-Wysper
-Tatch
-Professor AI
-Halluminate
-Xcap
-LinSha TechWorks
-Zero-True
-10 Clear
-TeddyBot
-Tiny Dinner
-Peepalytics
-Geenuity
-Panacea
-Share
-Zipps
-OpenForge
-Superlocal
-Advata
-GreatWeek
-Commander AI
-Dopplio
-CTRL Panel
-Mixo
-Hyperfan
-Plus One
-Boom AI
-Invisibility
-Xylic Data
-ScienceBank
-ShopKit
-Rebar Radar
-Marc-Johann
-AltMind
-Polaris
-Monocle
-Lighthouse`;
+const initialItems = `Toy Story
+A Bug's Life
+Toy Story 2
+Monsters, Inc.
+Finding Nemo
+The Incredibles
+Cars
+Ratatouille
+WALL-E
+Up
+Toy Story 3
+Cars 2
+Brave
+Monsters University
+Inside Out
+The Good Dinosaur
+Finding Dory
+Cars 3
+Coco
+Incredibles 2
+Toy Story 4
+Onward
+Soul
+Luca
+Turning Red
+Lightyear
+Elemental`;
 
 const items = [];
 
